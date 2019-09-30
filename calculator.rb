@@ -2,10 +2,10 @@ first_number = 2
 
 second_number = 3
 
-sum = 0
+sum = first_number + second_number
 
-product = 0
+product = first_number * second_number
 
-difference = 0
+difference = first_number - second_number
 
-quotient = 0
+quotient = first_number \ second_number
